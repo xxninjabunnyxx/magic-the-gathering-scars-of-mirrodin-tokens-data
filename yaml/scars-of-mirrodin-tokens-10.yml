@@ -1,0 +1,98 @@
+---
+object: card
+id: 856e308d-6268-4311-9667-c2f761db8f99
+oracle_id: 60acebe2-e1e5-478a-ab88-6a9c1409bca5
+multiverse_ids: []
+tcgplayer_id: 36375
+name: Poison Counter
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/856e308d-6268-4311-9667-c2f761db8f99
+scryfall_uri: https://scryfall.com/card/tsom/10/poison-counter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863
+  normal: https://cards.scryfall.io/normal/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863
+  large: https://cards.scryfall.io/large/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863
+  png: https://cards.scryfall.io/png/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.png?1562164863
+  art_crop: https://cards.scryfall.io/art_crop/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863
+  border_crop: https://cards.scryfall.io/border_crop/front/8/5/856e308d-6268-4311-9667-c2f761db8f99.jpg?1562164863
+mana_cost: ''
+cmc: 0.0
+type_line: Card
+oracle_text: "(A player with ten or more poison counters loses the game.)"
+colors: []
+color_identity: []
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1ea34c50-24cc-4e12-bdf5-12ef7d8a522f
+set: tsom
+set_name: Scars of Mirrodin Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/1ea34c50-24cc-4e12-bdf5-12ef7d8a522f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsom?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/856e308d-6268-4311-9667-c2f761db8f99/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A60acebe2-e1e5-478a-ab88-6a9c1409bca5&unique=prints
+collector_number: '10'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: ''
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.31'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Poison+Counter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Poison+Counter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Poison+Counter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36375?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Poison+Counter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Poison+Counter&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,134 @@
+---
+object: card
+id: c705b843-ca62-47bb-95dd-f303c60088bb
+oracle_id: 9859c54d-695b-4bb1-940e-cfd1c3301e89
+multiverse_ids: []
+tcgplayer_id: 36369
+name: Golem
+lang: en
+released_at: '2010-10-01'
+uri: https://api.scryfall.com/cards/c705b843-ca62-47bb-95dd-f303c60088bb
+scryfall_uri: https://scryfall.com/card/tsom/6/golem?utm_source=api
+layout: token
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg?1562164868
+  normal: https://cards.scryfall.io/normal/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg?1562164868
+  large: https://cards.scryfall.io/large/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg?1562164868
+  png: https://cards.scryfall.io/png/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.png?1562164868
+  art_crop: https://cards.scryfall.io/art_crop/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg?1562164868
+  border_crop: https://cards.scryfall.io/border_crop/front/c/7/c705b843-ca62-47bb-95dd-f303c60088bb.jpg?1562164868
+mana_cost: ''
+cmc: 0.0
+type_line: Token Artifact Creature — Golem
+oracle_text: ''
+power: '3'
+toughness: '3'
+colors: []
+color_identity: []
+keywords: []
+all_parts:
+- object: related_card
+  id: 1c4625ad-1c83-4095-a5a2-0fc9fa4dd5f2
+  component: combo_piece
+  name: Precursor Golem
+  type_line: Artifact Creature — Golem
+  uri: https://api.scryfall.com/cards/1c4625ad-1c83-4095-a5a2-0fc9fa4dd5f2
+- object: related_card
+  id: 4065423b-d8f1-4ced-80ff-5ad35c32741b
+  component: combo_piece
+  name: Cavalier of Dawn
+  type_line: Creature — Elemental Knight
+  uri: https://api.scryfall.com/cards/4065423b-d8f1-4ced-80ff-5ad35c32741b
+- object: related_card
+  id: 3cef2e6a-e46b-4425-b507-3213cfd1400c
+  component: combo_piece
+  name: Golem Foundry
+  type_line: Artifact
+  uri: https://api.scryfall.com/cards/3cef2e6a-e46b-4425-b507-3213cfd1400c
+- object: related_card
+  id: c705b843-ca62-47bb-95dd-f303c60088bb
+  component: token
+  name: Golem
+  type_line: Token Artifact Creature — Golem
+  uri: https://api.scryfall.com/cards/c705b843-ca62-47bb-95dd-f303c60088bb
+- object: related_card
+  id: 860e81bd-769a-4e8a-97a4-b0ae653a593b
+  component: combo_piece
+  name: Masterful Replication
+  type_line: Instant
+  uri: https://api.scryfall.com/cards/860e81bd-769a-4e8a-97a4-b0ae653a593b
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: not_legal
+  pauper: not_legal
+  vintage: not_legal
+  penny: not_legal
+  commander: not_legal
+  oathbreaker: not_legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: not_legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: false
+nonfoil: true
+finishes:
+- nonfoil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: 1ea34c50-24cc-4e12-bdf5-12ef7d8a522f
+set: tsom
+set_name: Scars of Mirrodin Tokens
+set_type: token
+set_uri: https://api.scryfall.com/sets/1ea34c50-24cc-4e12-bdf5-12ef7d8a522f
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Atsom&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/tsom?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c705b843-ca62-47bb-95dd-f303c60088bb/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9859c54d-695b-4bb1-940e-cfd1c3301e89&unique=prints
+collector_number: '6'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Nic Klein
+artist_ids:
+- b948d330-3fbd-44cc-b140-02bcc5d46f79
+illustration_id: 92c93685-2ae0-442a-8fb9-eafdb9eebae0
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+promo_types:
+- setpromo
+prices:
+  usd: '0.25'
+  usd_foil: 
+  usd_etched: 
+  eur: 
+  eur_foil: 
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Golem&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Golem
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/36369?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Golem&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Golem&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
